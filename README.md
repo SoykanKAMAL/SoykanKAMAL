@@ -1,75 +1,122 @@
-<img align ="right" src="https://komarev.com/ghpvc/?username=SoykanKAMAL&label=Profile%20views&color=0e75b6&style=flat" alt="basemax">
-<h1 align="center">Hi 👋, I'm Soykan</h1>
+<div align="center">
 
-Game Developer, Gaming Enthusiast, Loves Talking About #GameDevelopment and #VideoGames
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-<h2>Welcome!!</h2>
+<div style="
+    background-color: #242b24;
+    color: #e8e6e3;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 25px;
+    border: 5px solid #000000;
+    border-radius: 20px;
+    /* Deep inner shadow for the recessed 'screen' look */
+    box-shadow: inset 0 0 60px rgba(0,0,0,0.9), 0 5px 15px rgba(0,0,0,0.5);
+    /* Subtle letterpress effect */
+    text-shadow: 0.5px 0.5px 0px rgba(255,255,255,0.15);
+    /* Texture: Layer 1 is scanlines, Layer 2 is a fine green-tinted grain/noise simulation */
+    background-image: 
+        linear-gradient(rgba(0,0,0,0.15) 50%, transparent 50%),
+        radial-gradient(circle, rgba(0,255,65,0.04) 1px, transparent 1px);
+    background-size: 100% 3px, 4px 4px;
+    background-repeat: repeat;
+">
 
-<h3>About Me:</h3>
+<img align="right" src="https://komarev.com/ghpvc/?username=SoykanKAMAL&label=VIEWS&color=00ff41&style=flat-square" alt="basemax">
 
-:one: Unity3D & Unity2D Developer & Godot Enthusiast<br/>
-:two: 3 years of experience with the Unity Game Engine.<br/>
-:three: Excels at: 
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="c#" width="30" height="30"/> <br/>
-:four: Proficient with: 
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="c" width="30" height="30"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="c++" width="30" height="30"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" alt="java" width="30" height="30"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" alt="python" width="30" height="30"/><br/>
-:five: Have mastered many areas of game development like Gameplay Development and Game Mechanics Development.<br/>
+<div align="left">
+<pre style="color: #00ff41; background: none; border: none; padding: 0; margin: 0; line-height: 1.2;">
+> cd /users/soykan/basement
+> init user_profile
+> INITIALIZING...
+</pre>
 
-<h3>Reach Me:</h3>
-<a href="https://www.linkedin.com/in/soykankamal/" target="_top"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedIn" width="40" height="40"/> </a>
-<a href="https://vitaminsizdev.itch.io/" target="_blank"> <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/itch_io.svg" alt="linkedIn" width="40" height="40"/> </a><br/> 
+<pre style="color: #00ff41; background: none; margin: 10px 0 10px 0; line-height: 1.2;">
+> LOADED: Lofi_Beats_to_Code_To.mp3
+> ERROR: checking_caffeine_levels [CRITICAL]
+> USER_ID_FOUND:
+.----------------------------------------------------------------.
+|                                                                |
+|    ███████   ██████   ██    ██  ██   ██   █████   ███    ██    |
+|    ██       ██    ██   ██  ██   ██  ██   ██   ██  ████   ██    |
+|    ███████  ██    ██    ████    █████    ███████  ██ ██  ██    |
+|         ██  ██    ██     ██     ██  ██   ██   ██  ██  ██ ██    |
+|    ███████   ██████      ██     ██   ██  ██   ██  ██   ████    |
+|                                                                |
+'----------------------------------------------------------------'
+</pre>
 
-<h3>Ask Me Anything Related To Game Development & Programming :</h3>
+<pre style="color: #00ff41; background: none; border: none; padding: 0; margin: 0; line-height: 1.2;">
+> [PROMPT]: Act as a 7-year game developer. Make no mistakes.
+> Recombobulating...
+</pre>
 
-kamal.soykan@gmail.com
+<pre style="color: #00ff41; background: none; margin: 10px 0 10px 0; line-height: 1.2;">
+================================================================================
+:: SYSTEM_OVERVIEW ::
+================================================================================
+> ROLE:             Game_Developer
+> EXPERIENCE:       7_Years
+> LOC:              Dubai_Node_UAE
+> TAGS:             #GameDevelopment #SoloDeveloper #JackOfAllTrades #MasterOfOnlySome
 
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-<h2 align="left">My Games:</h2>
+[01] Primary_Drive:    Unity (Lvl.99 Mafia Boss)
+[02] Experimental:     Godot // Cocos Creator // Bit of everything else
+[03] Background_Tasks: Wasting millions of tokens / Endless Game Prototyping / Lifting heavy metal circles
+[04] Status:           Compiling dreams into bugs... then into features.
+</pre>
 
-<h3 align="left">- Please check <a href="https://vitaminsizdev.itch.io/" target="_blank">my itch.io page</a> for my latest games!</h3>
+<pre style="color: #00ff41; background: none; border: none; padding: 0; margin: 0; line-height: 1.2;">
+> exec super_duper_killer_game_project.exe
+> Flabbergasting...
+</pre>
 
-<h3 align="left">TaxiCartWe (Casual/Driving/Drift) [<a href="https://vitaminsizdev.itch.io/cilgintaksi">Windows</a>/<a href="https://vitaminsizdev.itch.io/cilgintaksi">Web</a>]</h3>
-<p>:small_orange_diamond:[Game-Jam Game]-Made in 72 hours</p>
-<a href="https://vitaminsizdev.itch.io/cilgintaksi" target="_blank"> <img src="https://github.com/SoykanKAMAL/SoykanKAMAL/blob/main/Src/GameWidgets/png/CilginTaksi/CilginTaksiWidget.PNG" alt="CilginTaksi" width="900" height="300"/></a>
+<pre style="color: #00ff41; background: none; margin: 10px 0 10px 0; line-height: 1.2;">
+================================================================================
+:: PROJECT_LAUNCH: PolyZen Drive ::
+================================================================================
+First self-published Steam title. 91% Positive / Very Positive rank (From 188 reviews)
+Lo-fi aesthetics, chill roads, cool songs. Not racing but just driving.
 
-<h3 align="left">Devolved (Action/Precision-Platformer/RageGame) [<a href="https://vitaminsizdev.itch.io/devolved">Windows</a>/<a href="https://vitaminsizdev.itch.io/devolved">Web</a>]</h3>
-<p>:small_orange_diamond:[Game-Jam Game]-Made in 72 hours</p>
-<a href="https://vitaminsizdev.itch.io/devolved" target="_blank"> <img src="https://github.com/SoykanKAMAL/SoykanKAMAL/blob/main/Src/GameWidgets/png/Devolved/DevolvedWidget.PNG" alt="Devolved" width="900" height="300"/></a>
+[STATUS]: MUST_CHECK_GAME_TO_DISABLE_SELF_DESTRUCT_MODE
+[LINK]:   <a href="https://store.steampowered.com/app/2715060/PolyZen_Drive/" style="color: #00ff41; text-decoration: underline; font-weight: bold;">[STEAM_STORE_PAGE]</a>
+</pre>
 
-<h3 align="left">ImagiPower (Action/Precision-Platformer/RageGame) [<a href="https://vitaminsizdev.itch.io/imagipower">Windows</a>/<a href="https://vitaminsizdev.itch.io/imagipower">Web</a>/<a href="https://play.google.com/store/apps/details?id=com.VitaminsizDev.ImagiPower">Android</a>]</h3>
-<p>:small_orange_diamond:[Game-Jam Game]-Made in 48 hours</p>
-<a href="https://vitaminsizdev.itch.io/imagipower" target="_blank"> <img src="https://github.com/SoykanKAMAL/SoykanKAMAL/blob/main/Src/GameWidgets/png/ImagiPower/ImagiPowerWidget.PNG" alt="ImagiPower" width="900" height="300"/></a>
+<pre style="color: #00ff41; background: none; border: none; padding: 0; margin: 0; line-height: 1.2;">
+> netstat -a --show-connections
+> Concocting...
+</pre>
 
-<h3 align="left">WallNinja (Hyper Casual/Action) [<a href="https://vitaminsizdev.itch.io/wallninja">Web</a>/Android(On Approval)]</h3>
-<a href="https://vitaminsizdev.itch.io/wallninja" target="_blank"> <img src="https://github.com/SoykanKAMAL/SoykanKAMAL/blob/main/Src/GameWidgets/png/WallNinja/wallNinja.PNG" alt="WallNinja" width="900" height="300"/></a>
+<pre style="color: #00ff41; background: none; margin: 10px 0 10px 0; line-height: 1.2;">
+================================================================================
+:: COMMUNICATIONS_LINK ::
+================================================================================
+> PROFESSIONAL:  <a href="https://www.linkedin.com/in/soykankamal/" style="color: #00ff41; text-decoration: none;">[LINKEDIN]</a>
+> GAME_ARCHIVE:  <a href="https://vitaminsizdev.itch.io/" style="color: #00ff41; text-decoration: none;">[ITCH_IO_JAM_GAMES]</a>
+> DIRECT_QUERY:  kamal.soykan@gmail.com [WARNING: Delayed responses expected]
+</pre>
 
-<h3 align="left">RagdollSuperFun (Casual) [<a href="https://vitaminsizdev.itch.io/ragdollsuperfunbanana">Windows</a>/<a href="https://vitaminsizdev.itch.io/ragdollsuperfunbanana">Web</a>]</h3>
-<a href="https://vitaminsizdev.itch.io/ragdollsuperfunbanana" target="_blank"> <img src="https://github.com/SoykanKAMAL/SoykanKAMAL/blob/main/Src/GameWidgets/png/RagdollSuperFun/RagdollWidget.PNG" alt="RagdollSuperFun" width="900" height="300"/> </a>
+<pre style="color: #00ff41; background: none; border: none; padding: 0; margin: 0; line-height: 1.2;">
+> ls -la /mnt/endless_vault_of_hopes_and_dreams
+> Constellationizing...
+</pre>
 
-<h3 align="left">LittleHeroesArena (Casual/Auto-battler) [<a href="https://vitaminsizdev.itch.io/littleheroesarena">Windows</a>/<a href="https://vitaminsizdev.itch.io/littleheroesarena">Web</a>]</h3>
-<a href="https://vitaminsizdev.itch.io/littleheroesarena" target="_blank"> <img src="https://github.com/SoykanKAMAL/SoykanKAMAL/blob/main/Src/GameWidgets/png/LittleHeroes/LHAWidget.PNG" alt="LittleHeroes" width="900" height="300"/> </a>
+<pre style="color: #00ff41; background: none; margin: 10px 0 10px 0; line-height: 1.2;">
+================================================================================
+:: PROJECT_STATIONS & VALIDATION_LOGS ::
+================================================================================
++----------------------------+---------------------------------------+----------------+
+| DEPLOYED_PROJECT           | VALIDATION_RANK                       | ACCESS_LINK    |
++----------------------------+---------------------------------------+----------------+
+| PolyZen Drive (Steam)      | [91%_POSITIVE_STEAM_RATING]           | <a href="https://store.steampowered.com/app/2715060/PolyZen_Drive/" style="color: #e8e6e3;">[STEAM_STORE]</a>  |
+| ImagiPower (48hr Jam Game) | 2nd_Overall_Award                     | <a href="https://vitaminsizdev.itch.io/imagipower" style="color: #e8e6e3;">[ITCH_IO_PAGE]</a> |
+| Devolved (72hr Jam Game)   | 1st_Concept | 2nd_Theme | 4th_Overall | <a href="https://vitaminsizdev.itch.io/devolved" style="color: #e8e6e3;">[ITCH_IO_PAGE]</a> |
++----------------------------+---------------------------------+----------------------+
+</pre>
 
-<h3 align="left">Upgrade To Survive (Action/Base-Defence/Upgrade) [In Production]</h3>
-<a href="https://vitaminsizdev.itch.io/upgradetosurvive" target="_blank"> <img src="https://github.com/SoykanKAMAL/SoykanKAMAL/blob/main/Src/GameWidgets/png/ProjectZombie/ZombiWidget.PNG" alt="Zombie" width="900" height="300"/></a>
-  
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-<h2>Languages and Tools: </h2>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="c#" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="c" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="c++" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" alt="java" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" alt="python" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><img src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" alt="unity" width="120" height="40"/><br/>
-
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-
-<h2>Stats:</h2>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=soykanKAMAL&show_icons=true&locale=en" alt="soykanKAMAL">
-
-------
-
-Last Edited on: 09/02/2022
+<br/>
+<pre style="color: #00ff41; background: none; border: none; padding: 0; margin: 0; line-height: 1.2;">
+> [!] WARNING: Logic works on my machine. If it fails on yours, that's a feature.
+> [SYSTEM]:    READY - Awaiting input...
+> _
+</pre>
+</div>
+</div>
+</div>
